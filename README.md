@@ -6,7 +6,7 @@ No frameworks, no fluff. Just code that does its job.
 ---
 
 ### 🧠 Core stack
-- **Languages:** C#, Java, Kotlin, JavaScript, Lua, PHP, HTML, CSS  
+- **Languages:** C#, C++, Python, Java, Kotlin, JavaScript, Lua, PHP, HTML, CSS  
 - **Legacy & oddballs:** ActionScript 1–3, jQuery, AJAX, Bash, SQL  
 - **CMS:** WordPress (custom theme/plugin dev. No builders, no bloat)  
 
