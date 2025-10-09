@@ -16,7 +16,7 @@ I don’t fix bugs, I erase them from existence.
 ### 🧩 Core stack
 - **Languages:** C#, C++, Python, Java, Kotlin, JavaScript, Lua, PHP, HTML, CSS  
 - **Core web:** AJAX, REST, SQL  
-- **Data & storage:** MySQL, PostgreSQL, SQLite, flat files, transients, caching, Redis  
+- **Data & storage:** MySQL, PostgreSQL, SQLite, flat-file databases, custom caching layers, Redis
 - **CMS:** WordPress, IceyCMS  
 - **Legacy & oddballs:** ActionScript 1–3, jQuery, Bash
 
