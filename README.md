@@ -29,10 +29,10 @@ I don’t fix bugs, I erase them from existence.
 I prefer systems with minimal abstraction and maximum performance.  
 
 ---
-### 🧷 Gists & stuff
+### 🧷 Gists
 Small utilities, snippets and experiments:  
-[gist.github.com/Icedor](https://gist.github.com/Icedor)
-[codepen.io/Icedor](https://codepen.io/Icedor)
+- **Github Gists:** [gist.github.com/Icedor](https://gist.github.com/Icedor)
+- **CodePen:** [codepen.io/Icedor](https://codepen.io/Icedor)
 
 
 ---
