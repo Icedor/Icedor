@@ -15,7 +15,9 @@ I am the one who codes.
 
 ### 🧩 Core stack
 - **Languages:** C#, C++, Python, Java, Kotlin, JavaScript, Lua, PHP, HTML, CSS, MySQL, PostgreSQL  
-- **Legacy & oddballs:** ActionScript 1–3, jQuery, AJAX, Bash, SQL  
+- **Legacy & oddballs:** ActionScript 1–3, jQuery, Bash,
+- **Databases:** MySQL, PostgreSQL, SQLite
+- **Core web:** AJAX, SQL
 - **CMS:** WordPress, IceyCMS  
 
 ---
