@@ -23,19 +23,17 @@ I am the one who codes.
 ### ⚡ Philosophy
 > “If I can’t control it, I don’t trust it.”
 
-I prefer systems that are mine from top to bottom with minimal abstraction and maximum performance.  
-Everything I build can be debugged, extended, and understood in plain code.
+I prefer systems with minimal abstraction and maximum performance.  
 
 ---
 
 ### 🧩 Projects
 A few of my WordPress utilities:
 - 🧱 **wp-plugin-icey-extension-archiver** – puts inactive plugins in a vault where they belong.  
-- 🔒 **wp-plugin-icey-only-logged-in** – blocks unauthorized users from even seeing your login page.
+- 🔒 **wp-plugin-icey-only-logged-in** – blocks unauthorized users from even seeing your web.
 
 ---
 
 ### 🧊 Contact
 If you want things done **properly**, reach out:  
-[icey.se](https://icey.se)  
-or just read the code, it usually explains itself.
+[icey.se](https://icey.se)
