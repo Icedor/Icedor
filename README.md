@@ -1,7 +1,15 @@
-**Dependencies are poison**
+**I’m not in danger, kid. I am the danger.
+Someone installs a package and hopes it works,
+and you think that’s me?
 
-I build stuff that works. Fast, clean, and without dependencies I didn’t ask for.  
-No frameworks, no fluff. Just code that does its job.
+No.
+
+I’m the one who builds the package.
+
+I don’t wait for updates, I write them.
+I don’t fix bugs, I erase them from existence.
+
+I am the one who codes.**
 
 ---
 
