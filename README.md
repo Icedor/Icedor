@@ -13,24 +13,17 @@ I am the one who codes.
 
 ---
 
-### 🧠 Core stack
+### 🧩 Core stack
 - **Languages:** C#, C++, Python, Java, Kotlin, JavaScript, Lua, PHP, HTML, CSS, MySQL, PostgreSQL  
 - **Legacy & oddballs:** ActionScript 1–3, jQuery, AJAX, Bash, SQL  
 - **CMS:** WordPress, IceyCMS  
 
 ---
 
-### ⚡ Philosophy
+### 🧠 Philosophy
 > “If I can’t control it, I don’t trust it.”
 
 I prefer systems with minimal abstraction and maximum performance.  
-
----
-
-### 🧩 Projects
-A few of my WordPress utilities:
-- 🧱 **wp-plugin-icey-extension-archiver** – puts inactive plugins in a vault where they belong.  
-- 🔒 **wp-plugin-icey-only-logged-in** – blocks unauthorized users from even seeing your web.
 
 ---
 
