@@ -1,4 +1,4 @@
-I’m not in danger, kid. I am the danger.
+I’m not in danger, kid. I *am* the danger.
 Someone installs a package and hopes it works,
 and you think that’s me?
 
@@ -9,15 +9,15 @@ I’m the one who builds the package.
 I don’t wait for updates, I write them.
 I don’t fix bugs, I erase them from existence.
 
-I am the one who codes.
+*I am the one who codes.*
 
 ---
 
 ### 🧩 Core stack
-- **Languages:** C#, C++, Python, Java, Kotlin, JavaScript, Lua, PHP, HTML, CSS, MySQL, PostgreSQL  
-- **Legacy & oddballs:** ActionScript 1–3, jQuery, Bash,
-- **Databases:** MySQL, PostgreSQL, SQLite
-- **Core web:** AJAX, SQL
+- **Languages:** C#, C++, Python, Java, Kotlin, JavaScript, Lua, PHP, HTML, CSS  
+- **Databases:** MySQL, PostgreSQL, SQLite  
+- **Core web:** AJAX, SQL  
+- **Legacy & oddballs:** ActionScript 1–3, jQuery, Bash  
 - **CMS:** WordPress, IceyCMS  
 
 ---
