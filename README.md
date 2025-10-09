@@ -18,7 +18,7 @@ I don’t fix bugs, I erase them from existence.
 - **Core web:** AJAX, REST, SQL
 - **Data & storage:** MySQL, PostgreSQL, SQLite, flat-file databases, custom caching layers, Redis, Object storage
 - **CMS:** WordPress, IceyCMS
-- **DevOps** & Infrastructure: Application scaling, VPS config, Bash
+- **DevOps & Infrastructure:** Application scaling, VPS config, Bash
 - **Legacy & oddballs:** ActionScript 1–3, jQuery
 - **Exploration:** machine learning experiments and model training
 
