@@ -4,6 +4,16 @@ I prefer systems with minimal abstraction and maximum performance.
 > “If I can’t control it, I don’t trust it.”
 ---
 
+### 🧊 Contact
+If you want things done **properly**, reach out:  
+[icey.se](https://icey.se)
+
+### 🧷 Gists
+Small utilities, snippets and experiments:  
+- **Github Gists:** [gist.github.com/Icedor](https://gist.github.com/Icedor)
+- **CodePen:** [codepen.io/Icedor](https://codepen.io/Icedor)
+---
+
 ### 🧩 Core stack
 - **Languages:** C#, C++, Python, Java, Kotlin, JavaScript, Lua, PHP, HTML, CSS
 - **Graphics & Simulation:** WebGL, WebGPU, OpenGL, Physics simulation
@@ -14,13 +24,3 @@ I prefer systems with minimal abstraction and maximum performance.
 - **Legacy & oddballs:** ActionScript 1–3, jQuery
 - **AI & Exploration:** LLM fine-tuning, local model deployment, prompt engineering, algorithmic trading, backtesting
 ---
-
-### 🧷 Gists
-Small utilities, snippets and experiments:  
-- **Github Gists:** [gist.github.com/Icedor](https://gist.github.com/Icedor)
-- **CodePen:** [codepen.io/Icedor](https://codepen.io/Icedor)
----
-
-### 🧊 Contact
-If you want things done **properly**, reach out:  
-[icey.se](https://icey.se)
