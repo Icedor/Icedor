@@ -1,16 +1,7 @@
-I’m not in danger, kid. I **am** the danger.
-Someone installs a package and hopes it works,
-and you think that’s me?
+I prefer systems with minimal abstraction and maximum performance.  
 
-No.
-
-I’m the one who builds the package.
-
-I don’t wait for updates, I write them.
-I don’t fix bugs, I erase them from existence.
-
-**I am the one who codes.**
-
+### 🧠 Philosophy
+> “If I can’t control it, I don’t trust it.”
 ---
 
 ### 🧩 Core stack
@@ -22,21 +13,12 @@ I don’t fix bugs, I erase them from existence.
 - **DevOps & Infrastructure:** Application scaling, VPS config, Bash
 - **Legacy & oddballs:** ActionScript 1–3, jQuery
 - **AI & Exploration:** LLM fine-tuning, local model deployment, prompt engineering, algorithmic trading, backtesting
-
 ---
 
-### 🧠 Philosophy
-> “If I can’t control it, I don’t trust it.”
-
-I prefer systems with minimal abstraction and maximum performance.  
-
----
 ### 🧷 Gists
 Small utilities, snippets and experiments:  
 - **Github Gists:** [gist.github.com/Icedor](https://gist.github.com/Icedor)
 - **CodePen:** [codepen.io/Icedor](https://codepen.io/Icedor)
-
-
 ---
 
 ### 🧊 Contact
