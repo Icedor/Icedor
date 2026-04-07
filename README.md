@@ -1,8 +1,4 @@
 I prefer systems with minimal abstraction and maximum performance.  
-
-### 🧠 Philosophy
-> “If I can’t control it, I don’t trust it.”
-
 ---
 
 ### 🧊 Contact
