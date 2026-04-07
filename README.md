@@ -14,13 +14,14 @@ I don’t fix bugs, I erase them from existence.
 ---
 
 ### 🧩 Core stack
-- **Languages:** C#, C++, Python, Java, Kotlin, JavaScript, Lua, PHP, HTML, CSS  
+- **Languages:** C#, C++, Python, Java, Kotlin, JavaScript, Lua, PHP, HTML, CSS
+- **Graphics & Simulation:** WebGL, WebGPU, OpenGL, Physics simulation
 - **Core web:** AJAX, REST, SQL
 - **Data & storage:** MySQL, PostgreSQL, SQLite, flat-file databases, custom caching layers, Redis, Object storage
 - **CMS:** WordPress, IceyCMS
 - **DevOps & Infrastructure:** Application scaling, VPS config, Bash
 - **Legacy & oddballs:** ActionScript 1–3, jQuery
-- **Exploration:** machine learning experiments and model training
+- **AI & Exploration:** LLM fine-tuning, local model deployment, prompt engineering, algorithmic trading, backtesting
 
 ---
 
