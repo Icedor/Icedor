@@ -1,4 +1,5 @@
 I prefer systems with minimal abstraction and maximum performance.  
+
 ---
 
 ### 🧊 Contact
