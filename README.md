@@ -7,6 +7,7 @@ I prefer systems with minimal abstraction and maximum performance.
 ### 🧊 Contact
 If you want things done **properly**, reach out:  
 [icey.se](https://icey.se)
+---
 
 ### 🧷 Gists
 Small utilities, snippets and experiments:  
@@ -23,4 +24,3 @@ Small utilities, snippets and experiments:
 - **DevOps & Infrastructure:** Application scaling, VPS config, Bash
 - **Legacy & oddballs:** ActionScript 1–3, jQuery
 - **AI & Exploration:** LLM fine-tuning, local model deployment, prompt engineering, algorithmic trading, backtesting
----
