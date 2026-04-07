@@ -3,8 +3,7 @@ I prefer systems with minimal abstraction and maximum performance.
 ---
 
 ### 🧊 Contact
-If you want things done **properly**, reach out:  
-[icey.se](https://icey.se)
+If you want things done **properly**, reach out: [icey.se](https://icey.se)
 
 ---
 
